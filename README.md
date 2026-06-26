@@ -1,4 +1,3 @@
-# Run and deploy your AI Studio app
 
 🐭 Mimi – AI Desktop Companion
 
