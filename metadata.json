@@ -1,0 +1,6 @@
+{
+  "name": "Mimi: AI Desktop Companion",
+  "description": "A friendly, floating AI pet that wandering around your desktop, providing emotional support, chat, and productivity tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Conversation", "Productivity Hooks", "Animation"]
+}
